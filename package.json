@@ -1,0 +1,15 @@
+{
+  "name": "primeiro-servidor",
+  "version": "1.0.0",
+  "description": "primeiro projeto criado na aula primeiro servidor do curso de Desenvolvimento de Software Back-end da Cubos Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rebeca Barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
